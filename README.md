@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7D7&width=800&height=150&lines=Welcome+to+kyulipark's+GitHub.&fontSize=40)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7D7&width=800&height=150&lines=Welcome+to+kyuli's+GitHub.&fontSize=40)](https://git.io/typing-svg)
 ![kyuli's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyulipark&show_icons=true&theme=radical) 
 
 # 🛠 Stack
